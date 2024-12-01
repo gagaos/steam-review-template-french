@@ -36,6 +36,7 @@ Ceci est un outil pour simplifier la création d'avis "copy-pasta" qui sont asse
 
 Il vous suffit de cocher toutes les cases que vous souhaitez, la sortie devrait ressembler à quelque chose comme ceci :
 
+```
 ---{ Graphismes }---
 ☑ Vous aller oublier ce qu'est la réalité
 ☐ Magnifique
@@ -44,3 +45,4 @@ Il vous suffit de cocher toutes les cases que vous souhaitez, la sortie devrait 
 ☐ Mauvais
 ☐ Ne le regardez pas trop
 ☐ MS-DOS
+```
