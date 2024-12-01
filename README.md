@@ -46,3 +46,5 @@ Il vous suffit de cocher toutes les cases que vous souhaitez, la sortie devrait 
 ☐ Ne le regardez pas trop
 ☐ MS-DOS
 ```
+
+Il générera une ligne en bas qui nous donne crédit. Nous aprécirons que vous la laissiez là, mais vous n'êtes pas obligé(e) :)
