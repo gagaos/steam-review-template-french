@@ -21,3 +21,26 @@ You just tick all the boxes that you want, the output should look something like
 ```
 
 It will generate with a line on the bottom that gives me credit. I would appreciate it if you left it there, but you don't have to :)
+
+#* Version française
+
+#### Hébergé avec ❤ par Github ici : https://vojtastruhar.github.io/steam-review-template/
+
+# Modèle d'avis Steam
+
+Ceci est un outil pour simplifier la création d'avis "copy-pasta" qui sont assez populaires sur Steam. Les catégories et options ne viennent pas de ma tête, je les ai juste copiées de quelque part. Il y a quelques variations mineures sur certaines des options, mais voici le résumé typique.
+
+![l'avis de TheQuid sur Hacknet généré par cet outil](./Review-screenshot-french.png)
+
+## Utilisation
+
+Il vous suffit de cocher toutes les cases que vous souhaitez, la sortie devrait ressembler à quelque chose comme ceci :
+
+---{ Graphismes }---
+☑ Vous aller oublier ce qu'est la réalité
+☐ Magnifique
+☐ Bien
+☐ Décent
+☐ Mauvais
+☐ Ne le regardez pas trop
+☐ MS-DOS
