@@ -11,21 +11,20 @@ import PageLayout from "../layouts/PageLayout.astro";
 
   <div class="max-w-screen-sm mx-auto px-4">
     <p>
-      This little tool simplifies the creation of copy-pasta Steam reviews (if
-      you are on this website, this <em>is</em> what you are looking for). I find
-      them moderately funny, so I made this website to avoid copy-pasting the copy
-      pasta so much.&nbsp;😆
+      Ce petit outil simplifie la création des évaluation steam "copy-pasta" (si
+      vous êtes sur ce site web, C'<em>est</em> ce que vous cherchez). Je les trouve
+      vachement fun, alors J'ai fais ce site web pour éviter le copier-coller.&nbsp;😆
     </p>
     <p>
-      The code is open source &rarr; <a
+      Ceci est open-source &rarr; <a
         href="https://github.com/VojtaStruhar/steam-review-template"
       >
-        check it out on Github</a
+        allez voir sur Github</a
       >!
     </p>
     <p>
-      The result generates with a line at the bottom that gives me credit.
-      Leaving it there is optional, but highly appreciated! Thanks!
+      Le résultat est généré avec une ligne en bas qui nous donne du crédit.
+      Le laisser là est facultatif, mais très apprécié ! Merci !
     </p>
     {
       config_json.categories.map((category, categoryIndex) => (
@@ -74,7 +73,7 @@ import PageLayout from "../layouts/PageLayout.astro";
           "py-4 px-8 text-lg font-bold rounded-lg border-none shadow bg-amber-400 hover:cursor-pointer hover:shadow-lg transition-all",
         ]}
       >
-        Generate Steam Review!</button
+        Générer l'avis steam</button
       >
     </div>
 
@@ -119,8 +118,10 @@ import PageLayout from "../layouts/PageLayout.astro";
         });
 
         output.innerHTML += `\n`;
-        output.innerHTML += `---{ Author }---\n`;
+        output.innerHTML += `---{ Auteur }---\n`;
         output.innerHTML += `☑ https://vojtastruhar.github.io/steam-review-template \n`;
+        output.innerHTML += `---{ Traducteur }--- \n`;
+        output.innerHTML += `☑ https://steamcommunity.com/id/TheQuid/ \n`;
       }
     }
 

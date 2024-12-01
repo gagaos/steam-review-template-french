@@ -5,7 +5,7 @@
   "homepage": "https://VojtaStruhar.github.io/steam-review-template",
   "dependencies": {
     "@astrojs/tailwind": "^5.1.0",
-    "astro": "^4.3.6",
+    "astro": "^4.16.16",
     "tailwindcss": "^3.4.1"
   },
   "scripts": {
