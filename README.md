@@ -22,7 +22,7 @@ You just tick all the boxes that you want, the output should look something like
 
 It will generate with a line on the bottom that gives me credit. I would appreciate it if you left it there, but you don't have to :)
 
-#* Version française
+# French
 
 #### Hébergé avec ❤ par Github ici : https://vojtastruhar.github.io/steam-review-template/
 
